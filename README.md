@@ -14,7 +14,7 @@ A full-stack strength training tracker that allows users to create workouts, log
 
 ## 📁 STEP 1: OPEN TERMINAL
 
-cd your-project-folder
+cd workout-tracking-system
 
 ---
 
@@ -49,7 +49,7 @@ https://github.com/new
 
 ## 🔗 STEP 6: CONNECT TO GITHUB
 
-git remote add origin https://github.com/YOUR_USERNAME/workout-tracking-system.git
+git remote add origin https://github.com/Rushil-Gowda/workout-tracking-system.git
 git branch -M main
 git push -u origin main
 
