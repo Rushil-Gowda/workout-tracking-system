@@ -138,11 +138,3 @@ node server.js
 H Rushil Gowda
 
 ---
-
-## 🎯 FINAL RESULT
-
-After this:
-
-* Your project will be live on GitHub
-* Clean professional repo
-* Ready for resume + submissions
